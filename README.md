@@ -1,0 +1,2 @@
+# cositas
+ejemplo de scripts
